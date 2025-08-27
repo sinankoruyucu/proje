@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(taskkill:*)",
+      "Bash(start /min python:*)",
+      "Bash(git add:*)",
+      "Bash(mkdir \"C:\\Users\\S K\\Desktop\\SQL_SERVER_PROJE\")",
+      "Bash(grep:*)",
+      "Bash(findstr:*)",
+      "Bash(del \"C:\\Users\\S K\\Desktop\\İLK PROJE\\database_sqlserver.py\")",
+      "Bash(rm:*)",
+      "mcp__ide__getDiagnostics",
+      "Bash(timeout:*)",
+      "Bash(git commit:*)",
+      "Bash(git config:*)",
+      "Bash(git remote add:*)",
+      "Bash(git remote remove:*)",
+      "Bash(git push:*)",
+      "Bash(git checkout:*)",
+      "Bash(sed:*)",
+      "Bash(git restore:*)",
+      "Bash(del create_icon.py)"
+    ],
+    "deny": []
+  }
+}
